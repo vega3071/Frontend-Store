@@ -209,7 +209,6 @@ h3 {
 
 .formulario {
     margin: auto;
-    border-radius: 5px;
     text-align: center;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -223,6 +222,7 @@ h3 {
 }
 .formulario__campo {
     border: solid 1rem var(--primarioOscuro); 
+    border-radius: 15px;
     padding: 1rem;
     background-color: var(--primario);
     color: var(--blanco);
