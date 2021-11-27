@@ -222,7 +222,7 @@ h3 {
 }
 .formulario__campo {
     border: solid 1rem var(--primarioOscuro); 
-    border-radius: 15px;
+    border-radius: 5px;
     padding: 1rem;
     background-color: var(--primario);
     color: var(--blanco);
